@@ -1,0 +1,1 @@
+imfinfo('peppers.png')
